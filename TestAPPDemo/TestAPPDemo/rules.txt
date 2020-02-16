@@ -1,0 +1,16 @@
+1. Create a classroom with students with the following details [Name,Age,Gender] 
+
+Rules:
+>classroom must be able to enroll new students
+>can also expel students based on their name.
+>can Generate list of current enrolled students
+
+
+2. Create an pokemon that can growl based on their respective names (example pickachu can scream "Pikachu!")
+
+
+3. Create a bank
+Rules:
+> Can Deposit money based on amount
+> Can Withdraw money based on current balance, if balance is insufficient must promt "You dont have enough balance"
+> Can Get current account balance
